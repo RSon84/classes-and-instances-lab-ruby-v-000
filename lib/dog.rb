@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-class dog
+class Dog
 end
 
 fido = dog.new
